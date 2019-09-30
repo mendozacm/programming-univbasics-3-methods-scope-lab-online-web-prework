@@ -13,3 +13,6 @@ def link
   catch_phrase = "It's Dangerous To Go Alone! Take This."
   puts catch_phrase
 end
+
+def any_phrase
+  output = 
