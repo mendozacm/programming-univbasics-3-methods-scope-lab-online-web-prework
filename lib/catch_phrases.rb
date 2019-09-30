@@ -14,7 +14,7 @@ def link
   puts catch_phrase
 end
 
-def any_phrase
+def any_phrase (phrase)
   expect{any_phrase(phrase)}
   output = "Do A Barrel Roll!\n".
   puts output
