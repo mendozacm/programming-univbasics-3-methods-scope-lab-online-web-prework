@@ -15,4 +15,6 @@ def link
 end
 
 def any_phrase
-  output = 
+  output = "Do A Barrel Roll!\n".
+  puts output
+end
